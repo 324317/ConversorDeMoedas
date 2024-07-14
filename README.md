@@ -83,11 +83,3 @@ Taxa de câmbio USD para BRL: 5.42
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests para melhorias e correções.
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## Contato
-
-Para mais informações, entre em contato com [seu-email@dominio.com](mailto:seu-email@dominio.com).
